@@ -1,0 +1,3 @@
+'help' command writes all the available commands on the console if no arguments are given.
+This command has one optional argument, command name.
+If argument is given it prints the description of the command.

@@ -1,0 +1,2 @@
+Glasanje za omiljeni bend:	Od sljedećih bendova, koji Vam je bend najdraži? Kliknite na link kako biste glasali!	glasanje-bendovi.txt
+Glasanje za najbolju igru:	Od sljedećih igara, koja je najbolja? Kliknite na link kako biste glasali!	glasanje-igre.txt

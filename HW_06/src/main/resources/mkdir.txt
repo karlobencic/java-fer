@@ -1,0 +1,3 @@
+'mkdir' command creates a directory as the specified path.
+This command expects one argument.
+The argument is path to the directory which should be created.

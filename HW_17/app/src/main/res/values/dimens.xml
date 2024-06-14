@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnWidth">1dp</dimen>
+    <dimen name="profilePadding">30dp</dimen>
+    <dimen name="profileTopPadding">8dp</dimen>
+    <dimen name="avatarSize">128dp</dimen>
+    <dimen name="profileElementPadding">16dp</dimen>
+</resources>

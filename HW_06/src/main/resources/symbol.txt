@@ -1,0 +1,5 @@
+'symbol' command manipulates with the environment symbols.
+This command expects one or two arguments.
+First argument is a symbol specifier. Available symbols are: PROMPT, MORELINES, MULTILINE.
+If only one argument is specified, command writes which symbol is used in the shell environment.
+If two arguments are specified, command sets a new symbol which will be used in the shell environment.

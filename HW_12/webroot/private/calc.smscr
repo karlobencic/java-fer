@@ -1,0 +1,7 @@
+{$= "text/plain" @setMimeType $}
+{$= "<style>table, th, td {border: 1px solid black;}</style>" $}
+{$= "<table>" $}
+{$= "<tr><td>a</td><td>" "a" 1 @tParamGet "</td></tr>" $}
+{$= "<tr><td>b</td><td>" "b" 2 @tParamGet "</td></tr>" $}
+{$= "<tr><td>a+b</td><td>" "zbroj" 3 @tParamGet "</td></tr>" $}
+{$= "</table>" $}

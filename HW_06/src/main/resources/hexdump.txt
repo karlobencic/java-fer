@@ -1,0 +1,2 @@
+'hexdump' command writes a binary view of the file in hexadecimal notation.
+This command expects one argument, path to the file.

@@ -1,0 +1,2 @@
+'charsets' command lists all available charsets.
+This command expects no arguments.

@@ -1,0 +1,2 @@
+'exit' command terminates the shell.
+This command expects no arguments.

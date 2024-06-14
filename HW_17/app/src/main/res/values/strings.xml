@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW17</string>
+    <string name="matematika">Matematika</string>
+    <string name="statistika">Statistika</string>
+    <string name="zbrajanje">Zbrajanje</string>
+    <string name="oduzimanje">Oduzimanje</string>
+    <string name="mnozenje">Množenje</string>
+    <string name="dijeljenje">Dijeljenje</string>
+    <string name="prvi_broj">Prvi broj</string>
+    <string name="drugi_broj">Drugi broj</string>
+    <string name="izracunaj">Izračunaj</string>
+    <string name="ok">OK</string>
+    <string name="posalji_izvjestaj">Pošalji izvještaj</string>
+    <string name="ucitaj">Učitaj</string>
+    <string name="unestite_relativnu_putanju">Unestite relativnu putanju</string>
+</resources>

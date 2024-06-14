@@ -1,0 +1,2 @@
+'tree' command lists the content of a directory as a tree.
+This command expects one argument, path to directory.

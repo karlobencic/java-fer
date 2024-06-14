@@ -1,0 +1,3 @@
+'copy' command copies the content from a source file to a destination file.
+This command expects two arguments.
+First argument is a path to the source file. Second argument is a path to the destination file.
